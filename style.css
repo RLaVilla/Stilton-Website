@@ -75,26 +75,27 @@ body {
 
 @media only screen and (max-width: 600px) {
     .name {
-        font-size: 30px; /* Adjusted font size for small screens */
+        font-size: 40px; /* Adjusted font size for small screens */
     }
 
     .tick {
-        font-size: 20px; /* Adjusted font size for small screens */
+        font-size: 26px; /* Adjusted font size for small screens */
     }
 
     .ca {
-        font-size: 8px; /* Adjusted font size for small screens */
-        margin-top: 20px; /* Adjusted margin for small screens */
+        font-size: 10px; /* Adjusted font size for small screens */
+        margin-top: 60px; /* Adjusted margin for small screens */
     }
 
     .img {
-        margin-top: 20px; /* Adjusted margin for small screens */
+        margin-top: 20px;
+        width: 200px; /* Adjusted margin for small screens */
     }
 
     .button-container {
         gap: 5px; /* Reduced gap for small screens */
         margin-bottom: 20px; /* Adjusted margin for small screens */
-        margin-top: 20px; /* Adjusted margin for small screens */
+        margin-top: 60px; /* Adjusted margin for small screens */
     }
 
     .image-button img {
