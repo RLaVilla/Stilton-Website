@@ -75,7 +75,7 @@ body {
 
 @media only screen and (max-width: 600px) {
     .name {
-        font-size: 40px; /* Adjusted font size for small screens */
+        font-size: 36px; /* Adjusted font size for small screens */
     }
 
     .tick {
@@ -93,7 +93,7 @@ body {
     }
 
     .button-container {
-        gap: 5px; /* Reduced gap for small screens */
+        gap: 20px; /* Reduced gap for small screens */
         margin-bottom: 20px; /* Adjusted margin for small screens */
         margin-top: 60px; /* Adjusted margin for small screens */
     }
