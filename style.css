@@ -75,15 +75,15 @@ body {
 
 @media only screen and (max-width: 600px) {
     .name {
-        font-size: 36px; /* Adjusted font size for small screens */
+        font-size: 40px; /* Adjusted font size for small screens */
     }
 
     .tick {
-        font-size: 26px; /* Adjusted font size for small screens */
+        font-size: 30px; /* Adjusted font size for small screens */
     }
 
     .ca {
-        font-size: 10px; /* Adjusted font size for small screens */
+        font-size: 14px; /* Adjusted font size for small screens */
         margin-top: 60px; /* Adjusted margin for small screens */
     }
 
