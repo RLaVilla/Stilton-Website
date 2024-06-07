@@ -14,9 +14,9 @@
 }
 
 .ca {
-    font-size: 28px;
+    font-size: 24px;
     margin-top: 60px;
-    margin-bottom: ;
+    
 } 
 
 .img {
@@ -27,6 +27,8 @@
     margin-top: 80px;
     
 }
+
+
 
 button {
     /* display: inline-block; 
@@ -70,3 +72,32 @@ body {
     width: 100px; /* Set the desired width */
     height: 100px; /* Set the desired height */
 }
+
+@media only screen and (max-width: 600px) {
+    .name {
+        font-size: 30px; /* Adjusted font size for small screens */
+    }
+
+    .tick {
+        font-size: 20px; /* Adjusted font size for small screens */
+    }
+
+    .ca {
+        font-size: 14px; /* Adjusted font size for small screens */
+        margin-top: 20px; /* Adjusted margin for small screens */
+    }
+
+    .img {
+        margin-top: 20px; /* Adjusted margin for small screens */
+    }
+
+    .button-container {
+        gap: 5px; /* Reduced gap for small screens */
+        margin-bottom: 20px; /* Adjusted margin for small screens */
+        margin-top: 20px; /* Adjusted margin for small screens */
+    }
+
+    .image-button img {
+        width: 60px; /* Reduced width for small screens */
+        height: 60px; /* Reduced height for small screens */
+    }
