@@ -76,6 +76,7 @@ body {
 @media only screen and (max-width: 600px) {
     .name {
         font-size: 50px; /* Adjusted font size for small screens */
+        margin-top: 40px;
     }
 
     .tick {
