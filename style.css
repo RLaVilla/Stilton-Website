@@ -83,7 +83,7 @@ body {
     }
 
     .ca {
-        font-size: 20px; /* Adjusted font size for small screens */
+        font-size: 16px; /* Adjusted font size for small screens */
         margin-top: 60px; /* Adjusted margin for small screens */
     }
 
@@ -99,6 +99,6 @@ body {
     }
 
     .image-button img {
-        width: 60px; /* Reduced width for small screens */
-        height: 60px; /* Reduced height for small screens */
+        width: 100px; /* Reduced width for small screens */
+        height: 100px; /* Reduced height for small screens */
     }
